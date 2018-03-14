@@ -14,4 +14,5 @@ We can then rearrange to get the formula for the pi
 
 So to make an approximation of Pi I have drawn a circle within a square. I will place random points in the square and by working out the ratio of points within the circle compared to within a square we will try to approcimate PI.
 
-Anyone who wants to imoprove on this please do, send me a pull request, I would love to see any more creative ideas.
+Anyone who wants to imoprove on this please do, send me a pull request, I would love to see any more creative ideas.  
+To view this *irrational* visualisation then click [here](https://diggidydale.github.io/PiDay-2018/)
